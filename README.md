@@ -3,7 +3,7 @@ A few programs from ES-CS291 course of 1st year curriculum of B.Tech. ECE stream
 
 # How to Install
 1. Create a C virtual environment.
-2. Clone the repo git clone https://github.com/AdityaSeth777/ES-CS291_Practice.git or download the repository.
+2. Clone the repo git clone https://github.com/pain-killer786/ES-CS291_Practice.git or download the repository.
 3. Go to the cloned/downloaded directory cd Program (n) where n= 1 to 15, or cd Patterns.
 4. Run pip3 install gcc.
 5. And now you can run the example scripts or create your own scripts.
@@ -27,7 +27,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 # License
-unilicense @Krishnendu Nandy
+MIT License @Krishnendu Nandy
 # What next?
 I will be working on the 3rd semester programs which I will be uploading as well.
 

@@ -1,3 +1,5 @@
+/*Write a program to print the factorial of an integer*/
+
 #include<stdio.h>
 int main()
 {

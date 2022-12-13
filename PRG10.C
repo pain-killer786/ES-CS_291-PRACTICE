@@ -1,3 +1,5 @@
+/*Write a program to calculate the series:- 1.3.5.7.9......*/
+
 #include<stdio.h>
 int main()
 {

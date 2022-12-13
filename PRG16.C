@@ -1,3 +1,10 @@
+/* Write a program using switch case to find:-
+i)Area of a square
+ii)1+1/2+1/3+.....1/n
+iii)Area of circle
+iv)1.3.5.....(2n+1)
+*/
+
 #include<stdio.h>
 int main()
 {

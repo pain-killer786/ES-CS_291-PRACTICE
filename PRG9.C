@@ -1,3 +1,5 @@
+/*Write a program to calculate the sum of floating numbers*/
+
 #include<stdio.h>
 int main()
 {

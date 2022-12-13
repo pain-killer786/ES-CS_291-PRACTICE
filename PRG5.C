@@ -1,3 +1,5 @@
+/*Write down the output of the sample program*/
+
 #include<stdio.h>
 int main()
 {

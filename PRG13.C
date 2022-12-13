@@ -1,3 +1,12 @@
+/*Write a program to print:-
+  
+   0
+  000
+ 00000
+0000000
+
+*/
+
 #include<stdio.h>
 int main()
 {

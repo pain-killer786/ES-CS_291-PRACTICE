@@ -1,5 +1,7 @@
+/*Write a program to find sum of all digits of a given integer*/
+
 #include<stdio.h>
-int amin()
+int main()
 {
     int n,y,sum;
     printf("\n Enter the number:-");
